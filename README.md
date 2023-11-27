@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pravallika-423
 - 👀 I’m interested in Java Programming
-- 🌱 I'm having good knowledge in Java,SQL,HTML,CSS,Javascript,Hibernate.
+- 🌱 I'm having a clear understanding in Java,SQL,HTML,CSS,Javascript,Hibernate.
 - 📧 lakshmipravallikabandaru@gmail.com
 
 <!---
